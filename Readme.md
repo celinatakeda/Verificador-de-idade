@@ -7,6 +7,6 @@ O usuário entra com o ano, escolhe o sexo e aperta o botão  verificar. O retor
 Caso o campo ano de nascimento não seja informado ou o usuário 
 entrar com um ano maior que o ano atual é mostrado um mensagem de erro.
 
-<p>
+<p align=center>
     <img src=".github/verificadorIdade.png">
 </p>
